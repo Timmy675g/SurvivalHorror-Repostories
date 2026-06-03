@@ -1,7 +1,6 @@
 world/
 logs/
 libraries/
-*.jar
 *.log
 crash-reports/
 eula.txt
